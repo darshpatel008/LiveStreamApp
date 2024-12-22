@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1",
+        "videoURL": “Media/videos/video1.mp4",
+        "user": {
+            "username": "lewisham",
+            "profilePictureURL": “Media/images/image1.png”
+        },
+        "viewerCount": 123,
+        "likes": 456,
+        "comments": [
+            {
+                "username": "johnny123",
+                "profilePictureURL": "Media/images/image4.png",
+                "text": “Nice song”
+            },
+            {
+                "username": "lilicook123",
+                "profilePictureURL": "Media/images/image3.png",
+                "text": "I love you Justin!”
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "videoURL": "Media/videos/video2.mp4",
+        "user": {
+            "username": "johnb",
+            "profilePictureURL": "Media/images/image2.png"
+        },
+        "viewerCount": 98,
+        "likes": 300,
+        "comments": [
+            {
+                "username": "foodlover12",
+                "profilePictureURL": "Media/images/image5.png",
+                "text": "This is so cool!"
+            },
+            {
+                "username": "foodlover12",
+                "profilePictureURL": "Media/images/image6.png",
+                "text": “Great!”
+            }
+        ]
+    }
+]
